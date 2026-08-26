@@ -1,0 +1,5 @@
+homepage: "https://www.visitorapi.com"
+documentation: "https://github.com/visitorapi/visitor-api-personalize-show-hide#readme"
+versions:
+  - sha: 27a4c247a3e0500cb1dfe330c50c85b57dc9476f
+    changeNotes: Initial release.
